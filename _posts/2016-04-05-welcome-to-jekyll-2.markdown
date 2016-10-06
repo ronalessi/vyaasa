@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Just another post to show pagination!"
+title:  "just another post to show pagination!"
 categories: jekyll update
 ---
 
