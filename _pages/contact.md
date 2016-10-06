@@ -16,7 +16,7 @@ permalink: /contact/
 
 .contact-input:focus {
     outline:none;
-    border-bottom: 1px solid #98C1D9;
+    border-bottom: 1px solid #333;
 }
 
 .contact-label {
@@ -30,7 +30,7 @@ ul.contact-ul {
 
 #submit {
     border:none;
-    background-color: #98C1D9;
+    background-color: #333;
     padding: 5px 15px;
     color: #eee;
     opacity: 0.8;
