@@ -52,7 +52,7 @@ ul.contact-ul {
 
 You can send me your feedback here. 
 
-<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token={{site.api-token}}" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=deef1985a2d6028a08d4d083e3ef166a" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -69,7 +69,7 @@ You can send me your feedback here.
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="https://ronalessi.github.io/vyaasa/" />
         
 </form>
 
