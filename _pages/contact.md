@@ -50,8 +50,6 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback here. 
-
 <form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token=deef1985a2d6028a08d4d083e3ef166a" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
